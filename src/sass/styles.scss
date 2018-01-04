@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import '~font-awesome/css/font-awesome.css';
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #1a1826;
+  color: #d9d2bf;
+  cursor: default;
+}
+
+.slide {
+  padding-top: 7em;
+
+  h1 {
+    font-size: 8.5em;
+    text-align: center;
+
+    &.extra-large {
+      font-size: 12em;
+    }
+  }
+
+  h2 {
+    font-size: 5em;
+    text-align: center;
+  }
+
+  ul {
+    font-size: 3em;
+  }
+}
+
+.navigation {
+  position: absolute;
+  top: 50px;
+  bottom: 0;
+  margin: 0;
+  max-width: 150px;
+  min-width: 90px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  font-size: 40px;
+  color: #ccc;
+  text-align: center;
+  -webkit-transition: all 350ms ease;
+  -moz-transition: all 350ms ease;
+  -o-transition: all 350ms ease;
+  transition: all 350ms ease;
+}

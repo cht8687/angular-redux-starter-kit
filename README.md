@@ -2,13 +2,13 @@
 
 ## This starter-kit consists of:
 * Built wit lastest Angular(5+)
-* <Implemented one Redux store, easy to extend
+* Implemented one Redux store, easy to extend
 * Structure wih classic Redux project structure
 * Example of use @select @dispatch in the container component
 * Can be used as starting point to build complex projects¡
 
 ## Development server
-`
+
 Run `ng serve` for a ev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding

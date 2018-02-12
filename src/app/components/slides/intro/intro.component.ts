@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { BaseSlideComponent } from '../base-slide/base-slide.component'
 @Component({
   selector: 'app-intro',
   templateUrl: './intro.component.html',

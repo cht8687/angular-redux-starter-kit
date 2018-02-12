@@ -8,7 +8,6 @@ import { AppComponent } from './app.component';
 // This app's ngModules
 import { StoreModule } from './store/module';
 import { IntroComponent } from './components/slides/intro/intro.component';
-import { BaseSlideComponent } from './components/slides/base-slide/base-slide.component';
 import { FrameworksComponent } from './components/slides/frameworks/frameworks.component';
 import { PresentationComponent } from './containers/presentation/presentation.component';
 
@@ -16,7 +15,6 @@ import { PresentationComponent } from './containers/presentation/presentation.co
   declarations: [
     AppComponent,
     IntroComponent,
-    BaseSlideComponent,
     FrameworksComponent,
     PresentationComponent
   ],

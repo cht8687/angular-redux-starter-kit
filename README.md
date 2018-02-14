@@ -1,5 +1,5 @@
 # Angular 5 + Angular-Redux starter kit
-
+![Demo](demo.gif)
 ## This starter-kit consists of:
 * Built with latest Angular(5+)
 * Implemented one Redux store, easy to extend
